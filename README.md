@@ -1,4 +1,4 @@
-# Sneak Peak #
+# Sneak Peek #
 * Preview to an ongoing project to validate strategies presented in Hummingbot [1]
 
 
