@@ -4,8 +4,8 @@
 
 ## Features ##
 * Test crypto market making strategies.
-* Load tick data from multiple sources sources including static/historical and real time.
-* Created using C/C++ core structure with interface to Python language.
+* Load tick data from multiple sources including static/historical and real time feed.
+* Created using C/C++ core structure with binding to Python language.
 * Runnable from either bash script or jupyter notebook for modeling (see example).
 
 
